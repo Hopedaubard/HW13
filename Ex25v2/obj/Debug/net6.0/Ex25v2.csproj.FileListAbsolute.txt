@@ -1,0 +1,15 @@
+C:\Repository\HWF\HWF\Ex25v2\bin\Debug\net6.0\Ex25v2.exe
+C:\Repository\HWF\HWF\Ex25v2\bin\Debug\net6.0\Ex25v2.deps.json
+C:\Repository\HWF\HWF\Ex25v2\bin\Debug\net6.0\Ex25v2.runtimeconfig.json
+C:\Repository\HWF\HWF\Ex25v2\bin\Debug\net6.0\Ex25v2.dll
+C:\Repository\HWF\HWF\Ex25v2\bin\Debug\net6.0\Ex25v2.pdb
+C:\Repository\HWF\HWF\Ex25v2\obj\Debug\net6.0\Ex25v2.csproj.AssemblyReference.cache
+C:\Repository\HWF\HWF\Ex25v2\obj\Debug\net6.0\Ex25v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\HWF\HWF\Ex25v2\obj\Debug\net6.0\Ex25v2.AssemblyInfoInputs.cache
+C:\Repository\HWF\HWF\Ex25v2\obj\Debug\net6.0\Ex25v2.AssemblyInfo.cs
+C:\Repository\HWF\HWF\Ex25v2\obj\Debug\net6.0\Ex25v2.csproj.CoreCompileInputs.cache
+C:\Repository\HWF\HWF\Ex25v2\obj\Debug\net6.0\Ex25v2.dll
+C:\Repository\HWF\HWF\Ex25v2\obj\Debug\net6.0\refint\Ex25v2.dll
+C:\Repository\HWF\HWF\Ex25v2\obj\Debug\net6.0\Ex25v2.pdb
+C:\Repository\HWF\HWF\Ex25v2\obj\Debug\net6.0\Ex25v2.genruntimeconfig.cache
+C:\Repository\HWF\HWF\Ex25v2\obj\Debug\net6.0\ref\Ex25v2.dll
